@@ -1,0 +1,7 @@
+{
+  "name": "ionic.task-completer-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
